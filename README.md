@@ -27,7 +27,7 @@ ________________________________________________________________________________
 # Entity RelationShip Diagram 
 
 
-<img  alt="ER dia" src="Image/ERdia.jpg">
+<img  alt="ER dia" src="Image/ER_dia.jpg">
 
 # Features 
 
