@@ -24,10 +24,6 @@ ________________________________________________________________________________
 * Admin Module
 * user Module
 
-# Entity RelationShip Diagram 
-
-
-<img  alt="ER dia" src="Image/ER_dia.jpg">
 
 # Features 
 
